@@ -52,4 +52,4 @@ class HHParser:
                     "employer": vacancy["employer"]["id"],
                 }
             )
-        return filtered_vacanciesw
+        return filtered_vacancies
